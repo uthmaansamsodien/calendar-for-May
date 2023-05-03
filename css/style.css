@@ -1,0 +1,24 @@
+
+.row {
+    border: 2px solid rgb(69, 1, 69);
+}
+
+.row-col {
+    border: 2px solid rgb(69, 1, 69);
+}
+
+.col {
+    border: 2px solid rgb(69, 1, 69); 
+}
+
+h1{
+    text-align: center; 
+    color:rgb(69, 1, 69);
+}
+mark{
+    background-color: yellow;
+    color:rgb(69, 1, 69);
+}
+.row-col{
+    background-color: bisque;
+}
